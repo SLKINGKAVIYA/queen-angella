@@ -3,13 +3,13 @@
     "description": "Queen Angella - Whatsapp Bot",
     "logo": "https://i.imgur.com/wvTMw09.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/isuwabrooo/queen-angella",
+    "repository": "https://github.com/SLKINGKAVIYA/queen-angella",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
         "ZIM_CODE": {
-            "description": "Asena session changed! Type your Angella code here.",
+            "description": "Asena session changed! Type your Angella code here කෝඩ් එක ඇතුලත් කරන්න😘.",
             "required": true
         },
         "SUDO": {
