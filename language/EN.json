@@ -187,12 +187,20 @@
             "SONG_DESC": "ගීත mp3 ලෙස ලබාගැනීමට.",
             "NEED_TEXT_SONG": "*ගීතයක නමක් ලබාදෙන්න!*\n*Example:* ```.song පෙම් කවක් ලියු```",
             "NO_RESULT": "*මට කිසිවක් සොයාගත නොහැකි විය :(*",
-            "DOWNLOADING_SONG": "\n*✺❤...😉 ඔබ සෙවූ ගීතය Downloading....*\n",
-            "UPLOADING_SONG": "\n*✺❤...😉 ඔබ සෙවූ ගීතය Uploading.*\n",
+            "DOWNLOADING_SONG": "\n╭┄┄┉┄┄┉♫♪♫┉┄┄┉┄┄╮
+*Ｉ'Ｍ ＤＯＷＮＬＯＤ ＹＯＵＲ ＳＯＮＧ➧*
+╰┄┄┉┄┄┉♫♪♫┉┉┄┄┄┄╯n",
+            "UPLOADING_SONG": "\n*Ｉ'Ｍ ＵＰＬＯＡＤＩＮＧ ＹＯＵＲ ＳＯＮＧ*
+
+                  📲⏫|◁      II         ▷|⏫🪀\n",
             "VIDEO_DESC": "යූ ටියුබ් වෙතින් වීඩියෝ Download කරගන්න.",
             "NEED_VIDEO": "*කරුණාකර වීඩියෝ සබැඳියක් ලබාදෙන්න!*\n*Example:* ```.video https://youtu.be/ZoTgnUNASQo```",
-            "DOWNLOADING_VIDEO": "*✺❤...😉 ඔබගේ වීඩියෝව Download කරමින්...*",
-            "UPLOADING_VIDEO": "*✺❤...😉 ඔබගේ වීඩියෝව Upload කරමින්...*",
+            "DOWNLOADING_VIDEO": "╭┄┄┉┄┄┉🎬🎞️🎥┉┄┄┉┄┄╮
+*Ｉ'Ｍ ＤＯＷＮＬＯＤ ＹＯＵＲ ＶＩＤＥＯ➧*
+╰┄┄┉┄┄┉🎬🎞️🎥┉┉┄┄┄┄╯",
+            "UPLOADING_VIDEO": "*Ｉ'Ｍ ＵＰＬＯＡＤＩＮＧ ＹＯＵＲ ＶＩＤＥＯ*
+
+                  📲⏫|◁      II         ▷|⏫🪀",
             "YT_DESC": "යූ ටියුබ් එකේ සොයන්න.",
             "NEED_WORDS": "```කරුණාකර වචන කිහිපයක් ලියන්න!```",
             "GETTING_VIDEOS": "```වීඩියෝ සොයමින්....```",
