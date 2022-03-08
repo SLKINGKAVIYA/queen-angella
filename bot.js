@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ KING KAVIYA working!')
+            chalk.green.bold('✅ KING KAVIYA😍 working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
