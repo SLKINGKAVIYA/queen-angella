@@ -34,8 +34,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 
 ## Subcribe to my channel for more updates 👇
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://www.youtube.com/channel/UC2hESq6BCCU-LKpl7Oq8g)
-
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtube.com/channel/UCS8cxzz9KbYIZXoMqqDcetQ)
 
 
 
