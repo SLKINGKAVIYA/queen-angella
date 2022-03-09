@@ -9,25 +9,26 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     var skl = await axios.get("https://i.imgur.com/wvTMw09.jpg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*𝐁𝐎𝐓 𝐍𝐀𝐌𝐄:𝕂𝕀ℕ𝔾 𝕀𝕊𝕌ℝ𝕌*
- 
-◼◼❏❏©drips ®ᵏⁱⁿᵍ ᴵˢᵘʷᵃ
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*𝐁𝐎𝐓 𝐍𝐀𝐌𝐄:𝙆𝙄𝙉𝙂 𝙆𝘼𝙑𝙄𝙔𝘼
 
-*𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐍𝐔𝐌𝐁𝐄𝐑 : wa.me/94783800632?text=Hii%20help%20karanna%20kemathida%20Oya%20Neda%20owner%20Sir.%20*
+😈𝙄'𝙈 𝙆𝙄𝙉𝙂 𝙆𝘼𝙑𝙄𝙔𝘼 𝙒𝙃𝘼𝙏𝙎 𝘼𝙋𝙋 𝘽𝙊𝙏☇
 
- *𝐓𝐎 𝐂𝐇𝐄𝐂𝐊 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 .update   To update Bot .update now*
+*𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍 𝙉𝙐𝙈𝘽𝙀𝙍 : http://wa.me/94716961129?text=Hi%20can%20You%20help%20me%20Build%20The%20WhatsappBot%20Sir.%20*
 
- *𝐁𝐎𝐓 𝐌𝐀𝐊𝐈𝐍𝐆 𝐕𝐈𝐃𝐄𝐎 : https://www.youtube.com/channel/UC2hESq6BCRCU-LKpl7Oq8g*
+ *𝙏𝙊 𝘾𝙃𝙀𝘾𝙆 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 .update   To update Bot .update now*
+
+ *𝙄'𝙈 𝙔𝙊𝙐𝙏𝙐𝘽𝙀 𝘾𝙃𝘼𝙉𝙀𝙇 : https://www.youtube.com/channel/UC2hESq6BCRCU-LKpl7Oq8g*
      
- *Instagram id: https://www.instagram.com/zim_hot_chicks_official?utm_medium=copy_link*
+ *𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋 𝘽𝙊𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆: https://chat.whatsapp.com/Hs6rRZsOwAH034EXPinvqo*
 
- *𝐃𝐑𝐈𝐏𝐒 𝐎𝐅𝐂  𝐙𝐈𝐌-𝐓𝐄𝐂𝐇𝐒 : website coming soon*
+ *𝙄'𝙈 𝙔𝙏 𝙂𝙍𝙊𝙐𝙋 𝙇𝙄𝙉𝙆 : https://chat.whatsapp.com/HkaHOCPgMdJF5eUlRPxTkP*
 
- *𝐆𝐈𝐓𝐇𝐔𝐁 𝐋𝐈𝐍𝐊 : https://github.com/isuwabrooo/queen-angella*
+ *𝙂𝙄𝙏𝙃𝙐𝘽 𝙇𝙄𝙉𝙆 : https://github.com/SLKINGKAVIYA/queen-angella*
 
- *𝕂𝕀ℕ𝔾 𝕀𝕊𝕌ℝ𝕌 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘  𝐃𝐑𝐈𝐏𝐒 𝐌𝐄𝐌𝐄𝐒 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐓𝐎 𝐌𝐘 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐃𝐑𝐈𝐏𝐒 𝐎𝐅𝐂 𝐅𝐎𝐑 𝐔𝐏𝐃𝐀𝐓𝐄𝐒*
+ *𝙆𝙄𝙉𝙂 𝙆𝘼𝙑𝙄𝙔𝘼 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘  𝐃𝐑𝐈𝐏𝐒 𝐌𝐄𝐌𝐄𝐒 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐓𝐎 𝐌𝐘 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐃𝐑𝐈𝐏𝐒 𝐎𝐅𝐂 𝐅𝐎𝐑 𝐔𝐏𝐃𝐀𝐓𝐄𝐒*
 
- ◼◼❏❏©drips ®ᵏⁱⁿᵍ ᴵˢᵘʷᵃ
+
+❄ＫＡＶＩＳＨＫＡ ＩＭＥＳＨ ＷＨＡＴＳ ＡＰＰ ＢＯＴ❄
 `}) 
 
 }));
