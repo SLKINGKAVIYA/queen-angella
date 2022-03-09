@@ -17,7 +17,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━✨️*𝙠𝙞𝙣𝙜 𝙞𝙨𝙪𝙬𝙖*✨️━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━✨️*KING KAVIYA*✨️━━━⛦
 
 
 𝙃𝙀𝙇𝙇𝙊👋 𝙄' 𝘼𝙈 𝘼 𝙆𝘼𝙑𝙄𝙎𝙃𝙆𝘼 𝙄𝙈𝙀𝙎𝙃 𝘽𝙊𝙏.
@@ -99,26 +99,26 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ❄➣╟ *𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜ -trumpsay
 ☇➣╟*𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝙏𝙄𝙊𝙉*➜ Convert text into Trump's tweet.
 
-❄➣╟ *𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜ -compliment 
+❄➣╟*𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜ -compliment 
 ☇➣╟*𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝙏𝙄𝙊𝙉*➜ Gives you a compliment.
 
-❄➣╟ *𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜  -bitly <link>
+❄➣╟*𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜  -bitly <link>
 ☇➣╟*𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝙏𝙄𝙊𝙉*➜   Shorten your link.
 
-❄➣╟ *𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜  -dict 
+❄➣╟*𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜  -dict 
 ☇➣╟*𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝙏𝙄𝙊𝙉*➜   Dictionary [-dict en;anime]
 
-❄➣╟ *𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜  -zodiac <leo> 
+❄➣╟*𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜  -zodiac <leo> 
 ☇➣╟*𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝙏𝙄𝙊𝙉*➜   Tells you about your horoscope.
 
-❄➣╟ *𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜  -qr <text>
+❄➣╟*𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜  -qr <text>
 ☇➣╟*𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝙏𝙄𝙊𝙉*➜   Converts text into qr code.
 
-❄➣╟ *𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜  -movie 
+❄➣╟*𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜  -movie 
 ☇➣╟*𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝙏𝙄𝙊𝙉*➜  Gives you info about movie.
 movie master
 
-❄➣╟ *𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜  -anime <text>
+❄➣╟*𝘾𝙊𝙈𝙈𝘼𝙉𝘿*➜  -anime <text>
 ☇➣╟*𝘿𝙀𝙎𝘾𝙍𝙄𝙋𝙏𝙄𝙊𝙉*➜  Gives you info about anime.
 anime Kaviya
 ■□■□■□■□■𝐊𝐈𝐍𝐆 𝐈𝐒𝐔𝐖𝐀□■□■□■□■□■□
